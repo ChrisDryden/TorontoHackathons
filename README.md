@@ -7,15 +7,35 @@ To contribute:
  3. Open a pull request!
 
 
+# August
+
  | Name  |  Location | Date | Application Period |  Notes |
  |---|---|---|---|---|
+ | [Consensys](https://generalassemb.ly/education/consensys-grants-toronto/toronto/83689)  |  Toronto | Aug. 16-17  |  No Deadline |   |
  | [Hack the 6ix](https://hackthe6ix.com/)  |  Toronto |  Aug. 23-25  | Applications Close Aug. 17th |   |
+
+ 
+# September
+ 
+ | Name  |  Location | Date | Application Period |  Notes |
+ |---|---|---|---|---|
+ | [Citizen Hacks](https://www.citizenhacks.com/)  | Toronto | Sept. 6-8 | Aug. 11th |   |
  | [CPA hacks](https://www.cpacanada.ca/en/career-and-professional-development/conferences/2019/september/2019-cpa-hacks-data-driven-financial-analysis)  |  Toronto | Sept. 13-14  |  Waitlist |   |
  | [Elevate Tech Jam](http://elevate.ca/events/tech-jam/)  |  Toronto | Sept. 20-22  |  Applications Close Aug. 23 |   |
- | [Consensys](https://generalassemb.ly/education/consensys-grants-toronto/toronto/83689)  |  Toronto | Aug. 16-17  |  No Deadline |   |
- | [Citizen Hacks](https://www.citizenhacks.com/)  | Toronto | Sept. 6-8 | Aug. 11th |   |
+
+
+ 
+# October 
+ 
+ | Name  |  Location | Date | Application Period |  Notes |
+ |---|---|---|---|---|
  | [Waterloo Space Apps](https://2019.spaceappschallenge.org/locations/kitchener-waterloo-canada)  | Waterloo | Oct. 18-20 | No Deadline |   |
  | [Genesys Hackathon](https://www.eventbrite.ca/e/genesys-hackathon-prizes-ms-surface-go-osmo-pocket-airpods-focals-by-north-tickets-62890236390?aff=ebdssbdestsearch)  | Toronto | Oct. 19-20 | No Deadline |   |
+ 
+# January
+
+ | Name  |  Location | Date | Application Period |  Notes |
+ |---|---|---|---|---|
  | [UofT Hacks](https://uofthacks.com/)  | Toronto | TBD | TBD |   |
  | [StarterHacks](www.starterhacks.ca)  | Toronto | Jan. 18-19 | TBD |   |
-  | [Hack The Valley]()  |Toronto | TBD | TBD |   |
+ | [Hack The Valley]()  |Toronto | TBD | TBD |   |
