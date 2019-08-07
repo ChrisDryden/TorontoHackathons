@@ -16,4 +16,6 @@ To contribute:
  | [Citizen Hacks](https://www.citizenhacks.com/)  | Toronto | Sept. 6-8 | Aug. 11th |   |
  | [Waterloo Space Apps](https://2019.spaceappschallenge.org/locations/kitchener-waterloo-canada)  | Waterloo | Oct. 18-20 | No Deadline |   |
  | [Genesys Hackathon](https://www.eventbrite.ca/e/genesys-hackathon-prizes-ms-surface-go-osmo-pocket-airpods-focals-by-north-tickets-62890236390?aff=ebdssbdestsearch)  | Toronto | Oct. 19-20 | No Deadline |   |
- | [StarterHacks](www.starterhacks.ca)  | Waterloo | Jan. 18-19 | TBD |   |
+ | [UofT Hacks](https://uofthacks.com/)  | Toronto | TBD | TBD |   |
+ | [StarterHacks](www.starterhacks.ca)  | Toronto | Jan. 18-19 | TBD |   |
+  | [Hack The Valley]()  |Toronto | TBD | TBD |   |
