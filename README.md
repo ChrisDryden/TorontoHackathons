@@ -1,5 +1,5 @@
 # Upcoming Hackathons in Toronto
-Crowdsourced list of hackathons in Toronto sorted by date and by applications deadline.
+Crowdsourced list of hackathons in Toronto and nearby cities sorted by date and by applications deadline.
 
 To contribute:
  1. Fork repository
@@ -14,4 +14,4 @@ To contribute:
  | [Elevate Tech Jam](http://elevate.ca/events/tech-jam/)  |  Toronto | Sept. 20-22  |  Applications Close Aug. 23 |   |
  | [Consensys](https://generalassemb.ly/education/consensys-grants-toronto/toronto/83689)  |  Toronto | Aug. 16-17  |  No Deadline |   |
  | [Citizen Hacks](https://www.citizenhacks.com/)  | Toronto | Sept. 6-8 | Aug. 11th |   |
-
+ | [Waterloo Space Apps](https://2019.spaceappschallenge.org/locations/kitchener-waterloo-canada)  | Waterloo | Oct. 18-20 | No Deadline |   |
