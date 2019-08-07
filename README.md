@@ -6,3 +6,4 @@ Crowdsourced list of hackathons in Toronto sorted by date and by applications de
  | [Hack the 6ix](https://hackthe6ix.com/)  |  Toronto |  Aug. 23-25  | Applications Close Aug. 17th |   |
  | [CPA hacks](https://www.cpacanada.ca/en/career-and-professional-development/conferences/2019/september/2019-cpa-hacks-data-driven-financial-analysis)  |  Toronto | Sept. 13-14  |  Waitlist |   |
  | [Elevate Tech Jam](http://elevate.ca/events/tech-jam/)  |  Toronto | Sept. 20-22  |  Applications Close Aug. 23 |   |
+ | [Consensys](https://generalassemb.ly/education/consensys-grants-toronto/toronto/83689)  |  Toronto | Aug. 16-17  |  No Deadline |   |
