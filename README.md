@@ -21,6 +21,7 @@ To contribute:
  |---|---|---|---|---|
  | [Citizen Hacks](https://www.citizenhacks.com/)  | Toronto | Sept. 6-8 | Aug. 11th |   |
  | [CPA hacks](https://www.cpacanada.ca/en/career-and-professional-development/conferences/2019/september/2019-cpa-hacks-data-driven-financial-analysis)  |  Toronto | Sept. 13-14  |  Waitlist |   |
+  | [Oxford Hackathon](https://www.hackworks.com/en/OxfordHackathonLondon)  |  Toronto | Sept. 14-15  |  No Deadline |   |
  | [Elevate Tech Jam](http://elevate.ca/events/tech-jam/)  |  Toronto | Sept. 20-22  |  Applications Close Aug. 23 |   |
 
 
@@ -29,6 +30,7 @@ To contribute:
  
  | Name  |  Location | Date | Application Period |  Notes |
  |---|---|---|---|---|
+ | [Paradigm Hackathon](https://www.hackworks.com/en/paradigmx2019)  | Toronto | Oct. 1-3 | No Deadline |   |
  | [Waterloo Space Apps](https://2019.spaceappschallenge.org/locations/kitchener-waterloo-canada)  | Waterloo | Oct. 18-20 | No Deadline |   |
  | [Genesys Hackathon](https://www.eventbrite.ca/e/genesys-hackathon-prizes-ms-surface-go-osmo-pocket-airpods-focals-by-north-tickets-62890236390?aff=ebdssbdestsearch)  | Toronto | Oct. 19-20 | No Deadline |   |
  
