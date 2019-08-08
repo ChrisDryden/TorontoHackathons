@@ -47,4 +47,14 @@ To contribute:
 
  | Name  |  Location | Date | Application Period |  Notes |
  |---|---|---|---|---|
+ | [Sheridan Hackville]( https://www.hackville.io/)  | Toronto | TBD | TBD |   |
  | [Make UofT](https://ieee.utoronto.ca/makeuoft/)  | Toronto | Feb 15-16 | TBD |   |
+
+# March
+
+ | Name  |  Location | Date | Application Period |  Notes |
+ |---|---|---|---|---|
+ | [HackLassonde](http://hacklassonde.ca/)  | Toronto | TBD | TBD |   |
+
+
+
