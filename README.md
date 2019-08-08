@@ -35,6 +35,12 @@ To contribute:
  | [Waterloo Space Apps](https://2019.spaceappschallenge.org/locations/kitchener-waterloo-canada)  | Waterloo | Oct. 18-20 | No Deadline |   |
  | [Genesys Hackathon](https://www.eventbrite.ca/e/genesys-hackathon-prizes-ms-surface-go-osmo-pocket-airpods-focals-by-north-tickets-62890236390?aff=ebdssbdestsearch)  | Toronto | Oct. 19-20 | No Deadline |   |
  
+# November
+ | Name  |  Location | Date | Application Period |  Notes |
+ |---|---|---|---|---|
+ | [ETHWaterloo](https://ethwaterloo.com/)  | Waterloo | Nov. 8-10 | TBD |   |
+
+ 
 # January
 
  | Name  |  Location | Date | Application Period |  Notes |
