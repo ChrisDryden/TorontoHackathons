@@ -21,7 +21,8 @@ To contribute:
  |---|---|---|---|---|
  | [Citizen Hacks](https://www.citizenhacks.com/)  | Toronto | Sept. 6-8 | Aug. 11th |   |
  | [CPA hacks](https://www.cpacanada.ca/en/career-and-professional-development/conferences/2019/september/2019-cpa-hacks-data-driven-financial-analysis)  |  Toronto | Sept. 13-14  |  Waitlist |   |
-  | [Oxford Hackathon](https://www.hackworks.com/en/OxfordHackathonLondon)  |  Toronto | Sept. 14-15  |  No Deadline |   |
+ | [Hack the North](https://hackthenorth.com/)  |  Waterloo | Sept. 13-15  |  Applications Finished |   |
+ | [Oxford Hackathon](https://www.hackworks.com/en/OxfordHackathonLondon)  |  Toronto | Sept. 14-15  |  No Deadline |   |
  | [Elevate Tech Jam](http://elevate.ca/events/tech-jam/)  |  Toronto | Sept. 20-22  |  Applications Close Aug. 23 |   |
 
 
