@@ -42,3 +42,9 @@ To contribute:
  | [UofT Hacks](https://uofthacks.com/)  | Toronto | TBD | TBD |   |
  | [StarterHacks](www.starterhacks.ca)  | Toronto | Jan. 18-19 | TBD |   |
  | [Hack The Valley]()  |Toronto | TBD | TBD |   |
+
+# February
+
+ | Name  |  Location | Date | Application Period |  Notes |
+ |---|---|---|---|---|
+ | [Make UofT](https://ieee.utoronto.ca/makeuoft/)  | Toronto | Feb 15-16 | TBD |   |
