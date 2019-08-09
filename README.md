@@ -35,6 +35,7 @@ To contribute:
   | [The GoldenHack](https://www.thegoldenhack.ca/)  | Waterloo | Oct. 5-6 | No Deadline |   |
  | [Waterloo Space Apps](https://2019.spaceappschallenge.org/locations/kitchener-waterloo-canada)  | Waterloo | Oct. 18-20 | No Deadline |   |
  | [Genesys Hackathon](https://www.eventbrite.ca/e/genesys-hackathon-prizes-ms-surface-go-osmo-pocket-airpods-focals-by-north-tickets-62890236390?aff=ebdssbdestsearch)  | Toronto | Oct. 19-20 | No Deadline |   |
+  | [YorkU Hacks](https://yorkuhacks.com/)  | Toronto | Oct. 26-27 | No Deadline |   |
  
 # November
  | Name  |  Location | Date | Application Period |  Notes |
