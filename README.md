@@ -55,6 +55,7 @@ To contribute:
 
  | Name  |  Location | Date | Application Period |  Notes |
  |---|---|---|---|---|
+ | [QHacks](https://qhacks.io/)  | Kingston | Jan. 31 - Feb 2 | TBD |   |
  | [Sheridan Hackville]( https://www.hackville.io/)  | Toronto | TBD | TBD |   |
  | [Make UofT](https://ieee.utoronto.ca/makeuoft/)  | Toronto | Feb 15-16 | TBD |   |
 
