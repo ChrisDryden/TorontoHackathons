@@ -41,6 +41,7 @@ To contribute:
  | Name  |  Location | Date | Application Period |  Notes |
  |---|---|---|---|---|
  | [ETHWaterloo](https://ethwaterloo.com/)  | Waterloo | Nov. 8-10 | TBD |   |
+ | [Hack Western 6](https://hackwestern.com/)  | London | Nov. 22-24 | Email list |   |
 
  
 # January
