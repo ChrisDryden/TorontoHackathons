@@ -38,6 +38,7 @@ To contribute:
   | [YorkU Hacks](https://yorkuhacks.com/)  | Toronto | Oct. 26-27 | No Deadline |   |
  
 # November
+
  | Name  |  Location | Date | Application Period |  Notes |
  |---|---|---|---|---|
  | [ETHWaterloo](https://ethwaterloo.com/)  | Waterloo | Nov. 8-10 | TBD |   |
