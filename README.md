@@ -24,6 +24,7 @@ To contribute:
  | [Hack the North](https://hackthenorth.com/)  |  Waterloo | Sept. 13-15  |  Applications Finished |   |
  | [Oxford Hackathon](https://www.hackworks.com/en/OxfordHackathonLondon)  |  Toronto | Sept. 14-15  |  No Deadline |   |
  | [Elevate Tech Jam](http://elevate.ca/events/tech-jam/)  |  Toronto | Sept. 20-22  |  Applications Close Aug. 23 |   |
+ | [Pueblo Science Hackathon](http://puebloscience.org/hackathon/)  |  Toronto | Sept. 21-22  |  No Dealine | 20$ Deposit  |
 
 
  
