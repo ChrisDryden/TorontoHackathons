@@ -11,7 +11,7 @@ To contribute:
 
  | Name  |  Location | Date | Application Period |  Notes |
  |---|---|---|---|---|
- | [Consensys](https://generalassemb.ly/education/consensys-grants-toronto/toronto/83689)  |  Toronto | Aug. 16-17  |  No Deadline |   |
+ | [Consensys](https://generalassemb.ly/education/consensys-grants-toronto/toronto/83689)  |  Toronto | Aug. 16-17  |  Waitlist |   |
  | [Hack the 6ix](https://hackthe6ix.com/)  |  Toronto |  Aug. 23-25  | Applications Close Aug. 17th |   |
 
  
