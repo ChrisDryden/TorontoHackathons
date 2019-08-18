@@ -46,6 +46,10 @@ To contribute:
  | [Digital for Good Tech Jam](https://www.digitalforgood.com/)  | Toronto | Nov. 15-17 | Email list |   |
  | [Hack Western 6](https://hackwestern.com/)  | London | Nov. 22-24 | Email list |   |
  
+# December
+ | Name  |  Location | Date | Application Period |  Notes |
+ |---|---|---|---|---|
+ | [Hack the Hammer](https://hackthehammer.com/)  | Waterloo | Dec. 14-15 | Email List |  Highschool Hackathon |
 
 
  
