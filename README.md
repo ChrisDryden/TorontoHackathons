@@ -60,16 +60,19 @@ To contribute:
  | [UofT Hacks](https://uofthacks.com/)  | Toronto | TBD | TBD |   |
  | [StarterHacks](www.starterhacks.ca)  | Toronto | Jan. 18-19 | TBD |   |
  | [Hack The Valley]()  |Toronto | TBD | TBD |   |
- | [DeltaHacks](https://www.deltahacks.com/) | Toronto | TBD | TBD |   |
+ | [DeltaHacks](https://www.deltahacks.com/) | Hamilton | TBD | TBD |   |
  
 
 # February
 
  | Name  |  Location | Date | Application Period |  Notes |
  |---|---|---|---|---|
+ | [ElleHacks](https://ellehacks.com/) | Toronto | TBD | TBD |   |
  | [QHacks](https://qhacks.io/)  | Kingston | Jan. 31 - Feb 2 | TBD |   |
  | [Sheridan Hackville]( https://www.hackville.io/)  | Toronto | TBD | TBD |   |
  | [Make UofT](https://ieee.utoronto.ca/makeuoft/)  | Toronto | Feb 15-16 | TBD |   |
+
+https://ellehacks.com/
 
 # March
 
