@@ -11,7 +11,7 @@ To contribute:
 
  | Name  |  Location | Date | Application Period |  Notes |
  |---|---|---|---|---|
- | [Hack the 6ix](https://hackthe6ix.com/)  |  Toronto |  Aug. 23-25  | Applications Close Aug. 17th |   |
+ | [Hack the 6ix](https://hackthe6ix.com/)  |  Toronto |  Aug. 23-25  | Applications Finished |   |
 
  
 # September
