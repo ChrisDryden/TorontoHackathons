@@ -59,7 +59,6 @@ To contribute:
  |---|---|---|---|---|
  | [UofT Hacks](https://uofthacks.com/)  | Toronto | TBD | TBD |   |
  | [StarterHacks](www.starterhacks.ca)  | Toronto | Jan. 18-19 | TBD |   |
- | [Hack The Valley]()  |Toronto | TBD | TBD |   |
  | [DeltaHacks](https://www.deltahacks.com/) | Hamilton | TBD | TBD |   |
  
 
@@ -70,6 +69,8 @@ To contribute:
  | [ElleHacks](https://ellehacks.com/) | Toronto | TBD | TBD |   |
  | [QHacks](https://qhacks.io/)  | Kingston | Jan. 31 - Feb 2 | TBD |   |
  | [Sheridan Hackville]( https://www.hackville.io/)  | Toronto | TBD | TBD |   |
+ | [Hack The Valley]()  |Toronto | TBD | TBD |   |
+ | [cuHAcking](https://cuhacking.com/)  | Ottawa | TBD | TBD |   |
  | [Make UofT](https://ieee.utoronto.ca/makeuoft/)  | Toronto | Feb 15-16 | TBD |   |
 
 
@@ -78,7 +79,7 @@ To contribute:
  | Name  |  Location | Date | Application Period |  Notes |
  |---|---|---|---|---|
  | [HackLassonde](http://hacklassonde.ca/)  | Toronto | TBD | TBD |   |
- | [MasseyHacks](https://masseyhacks.ca/)  | Windsor | TBD | TBD |   |
+ | [MasseyHacks](https://masseyhacks.ca/)  | Windsor | TBD | TBD |  Highschool Hackathon |
 
  
 
