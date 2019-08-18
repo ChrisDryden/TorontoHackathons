@@ -72,13 +72,15 @@ To contribute:
  | [Sheridan Hackville]( https://www.hackville.io/)  | Toronto | TBD | TBD |   |
  | [Make UofT](https://ieee.utoronto.ca/makeuoft/)  | Toronto | Feb 15-16 | TBD |   |
 
-https://ellehacks.com/
 
 # March
 
  | Name  |  Location | Date | Application Period |  Notes |
  |---|---|---|---|---|
  | [HackLassonde](http://hacklassonde.ca/)  | Toronto | TBD | TBD |   |
+ | [MasseyHacks](https://masseyhacks.ca/)  | Windsor | TBD | TBD |   |
+
+ 
 
 
 
