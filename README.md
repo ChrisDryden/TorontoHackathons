@@ -24,6 +24,8 @@ To contribute:
  | [Oxford Hackathon](https://www.hackworks.com/en/OxfordHackathonToronto)  |  Toronto | Sept. 14-15  |  No Deadline |   |
  | [Elevate Tech Jam](http://elevate.ca/events/tech-jam/)  |  Toronto | Sept. 20-22  |  Applications Close Aug. 23 |   |
  | [Pueblo Science Hackathon](http://puebloscience.org/hackathon/)  |  Toronto | Sept. 21-22  |  No Dealine | 20$ Deposit  |
+ | [AmpHacks](https://jobs.rbc.com/ca/en/job/192773?locale=en_US)  |  Toronto | Sept. 28-29  |  Sept. 8th |  |
+
 
 
  
