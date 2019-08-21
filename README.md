@@ -62,6 +62,9 @@ To contribute:
  | [UofT Hacks](https://uofthacks.com/)  | Toronto | TBD | TBD |   |
  | [StarterHacks](www.starterhacks.ca)  | Toronto | Jan. 18-19 | TBD |   |
  | [DeltaHacks](https://www.deltahacks.com/) | Hamilton | TBD | TBD |   |
+ | [SheHacks](https://shehacks.ca) | Toronto | TBD | TBD |   |
+
+
  
 
 # February
