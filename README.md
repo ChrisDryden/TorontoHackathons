@@ -60,6 +60,7 @@ To contribute:
  | Name  |  Location | Date | Application Period |  Notes |
  |---|---|---|---|---|
  | [UofT Hacks](https://uofthacks.com/)  | Toronto | TBD | TBD |   |
+ | [ConU Hacks](https://conuhacks.io)  | Montreal | TBD | TBD | Bus to Toronto |
  | [NSBE Hacks](http://www.nsbehacksuoft.ca)  | Toronto | TBD | TBD |   |
  | [StarterHacks](www.starterhacks.ca)  | Toronto | Jan. 18-19 | TBD |   |
  | [DeltaHacks](https://www.deltahacks.com/) | Hamilton | TBD | TBD |   |
