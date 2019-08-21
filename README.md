@@ -86,6 +86,8 @@ To contribute:
  |---|---|---|---|---|
  | [HackLassonde](http://hacklassonde.ca/)  | Toronto | TBD | TBD |   |
  | [MasseyHacks](https://masseyhacks.ca/)  | Windsor | TBD | TBD |  Highschool Hackathon |
+ | [ETHUoft](https://www.ethuoft.ca)  | Toronto | TBD | TBD |  |
+
 
  
 
