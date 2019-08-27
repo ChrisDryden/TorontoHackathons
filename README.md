@@ -20,6 +20,8 @@ To contribute:
  | [Elevate Tech Jam](http://elevate.ca/events/tech-jam/)  |  Toronto | Sept. 20-22  |  Applications Finished |   |
  | [SunLife Hackathon](https://www.eventbrite.ca/e/sun-life-data-and-analytics-hackathon-tickets-64624039241?aff=ebdssbdestsearch)  |  Toronto | Sept. 20  |  Applications Finished |   |
  | [Pueblo Science Hackathon](http://puebloscience.org/hackathon/)  |  Toronto | Sept. 21-22  |  No Deadline | 20$ Deposit  |
+ | [Next Great Innovator RBC](https://jobs.rbc.com/ca/en/next-great-innovator-hackathon)  |  Toronto | Sept. 21-22  |  Sept 8th | Only Girls  |
+
  | [AmpHacks](https://jobs.rbc.com/ca/en/job/192773?locale=en_US)  |  Toronto | Sept. 28-29  |  Sept. 8th |  |
 
 
@@ -60,7 +62,7 @@ To contribute:
  | [NSBE Hacks](http://www.nsbehacksuoft.ca)  | Toronto | TBD | TBD |   |
  | [StarterHacks](www.starterhacks.ca)  | Toronto | Jan. 18-19 | TBD |   |
  | [DeltaHacks](https://www.deltahacks.com/) | Hamilton | TBD | TBD |   |
- | [SheHacks](https://shehacks.ca) | Toronto | TBD | TBD |   |
+ | [SheHacks](https://shehacks.ca) | Toronto | TBD | TBD |  Only Girls  |
 
 
  
@@ -69,7 +71,7 @@ To contribute:
 
  | Name  |  Location | Date | Application Period |  Notes |
  |---|---|---|---|---|
- | [ElleHacks](https://ellehacks.com/) | Toronto | TBD | TBD |   |
+ | [ElleHacks](https://ellehacks.com/) | Toronto | TBD | TBD | Only Girls   |
  | [QHacks](https://qhacks.io/)  | Kingston | Jan. 31 - Feb 2 | TBD |   |
  | [Sheridan Hackville]( https://www.hackville.io/)  | Toronto | TBD | TBD |   |
  | [Hack The Valley]()  |Toronto | TBD | TBD |   |
