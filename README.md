@@ -7,11 +7,6 @@ To contribute:
  3. Open a pull request!
 
 
-# August
-
- | Name  |  Location | Date | Application Period |  Notes |
- |---|---|---|---|---|
- | [Hack the 6ix](https://hackthe6ix.com/)  |  Toronto |  Aug. 23-25  | Applications Finished |   |
 
  
 # September
@@ -22,7 +17,7 @@ To contribute:
  | [CPA hacks](https://www.cpacanada.ca/en/career-and-professional-development/conferences/2019/september/2019-cpa-hacks-data-driven-financial-analysis)  |  Toronto | Sept. 13-14  |  Waitlist |   |
  | [Hack the North](https://hackthenorth.com/)  |  Waterloo | Sept. 13-15  |  Applications Finished |   |
  | [Oxford Hackathon](https://www.hackworks.com/en/OxfordHackathonToronto)  |  Toronto | Sept. 14-15  |  No Deadline |   |
- | [Elevate Tech Jam](http://elevate.ca/events/tech-jam/)  |  Toronto | Sept. 20-22  |  Applications Close Aug. 23 |   |
+ | [Elevate Tech Jam](http://elevate.ca/events/tech-jam/)  |  Toronto | Sept. 20-22  |  Applications Finished |   |
  | [SunLife Hackathon](https://www.eventbrite.ca/e/sun-life-data-and-analytics-hackathon-tickets-64624039241?aff=ebdssbdestsearch)  |  Toronto | Sept. 20  |  No Deadline | ~25 Spots Remaining  |
  | [Pueblo Science Hackathon](http://puebloscience.org/hackathon/)  |  Toronto | Sept. 21-22  |  No Deadline | 20$ Deposit  |
  | [AmpHacks](https://jobs.rbc.com/ca/en/job/192773?locale=en_US)  |  Toronto | Sept. 28-29  |  Sept. 8th |  |
