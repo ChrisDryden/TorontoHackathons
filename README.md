@@ -21,7 +21,6 @@ To contribute:
  | [SunLife Hackathon](https://www.eventbrite.ca/e/sun-life-data-and-analytics-hackathon-tickets-64624039241?aff=ebdssbdestsearch)  |  Toronto | Sept. 20  |  Applications Finished |   |
  | [Pueblo Science Hackathon](http://puebloscience.org/hackathon/)  |  Toronto | Sept. 21-22  |  No Deadline | 20$ Deposit  |
  | [Next Great Innovator RBC](https://jobs.rbc.com/ca/en/next-great-innovator-hackathon)  |  Toronto | Sept. 21-22  |  Sept 8th | Only Girls  |
-
  | [AmpHacks](https://jobs.rbc.com/ca/en/job/192773?locale=en_US)  |  Toronto | Sept. 28-29  |  Sept. 8th |  |
 
 
