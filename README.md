@@ -39,7 +39,7 @@ To contribute:
 
  | Name  |  Location | Date | Application Period |  Notes |
  |---|---|---|---|---|
- | [ETHWaterloo](https://ethwaterloo.com/)  | Waterloo | Nov. 8-10 | TBD |   |
+ | [ETHWaterloo](https://ethwaterloo.com/)  | Waterloo | Nov. 8-10 | No Deadline |   |
  | [Digital for Good Tech Jam](https://www.digitalforgood.com/)  | Toronto | Nov. 15-17 | Email list |   |
  | [Hack Western 6](https://hackwestern.com/)  | London | Nov. 22-24 | Email list |   |
  
