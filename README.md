@@ -66,6 +66,8 @@ To contribute:
  | [StarterHacks](https://www.starterhacks.ca)  | Toronto | Jan. 18-19 | TBD |   |
  | [DeltaHacks](https://www.deltahacks.com/) | Hamilton | TBD | TBD |   |
  | [SheHacks](https://shehacks.ca) | Toronto | TBD | TBD |  Only Girls  |
+ | [Daisy Intelligence Challenge](http://info.daisyintelligence.com/hackathon) | Toronto | TBD | TBD |   |
+
 
 
  
