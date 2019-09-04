@@ -91,6 +91,8 @@ To contribute:
  | [HackLassonde](http://hacklassonde.ca/)  | Toronto | TBD | TBD |   |
  | [MasseyHacks](https://masseyhacks.ca/)  | Windsor | TBD | TBD |  Highschool Hackathon |
  | [ETHUoft](https://www.ethuoft.ca)  | Toronto | TBD | TBD |  |
+ | [New Hacks](https://ieee.utoronto.ca/#/)  | Toronto | March 7-8 | TBD |  |
+
 
 
  
