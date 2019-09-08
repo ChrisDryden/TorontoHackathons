@@ -81,7 +81,7 @@ To contribute:
  | [QHacks](https://qhacks.io/)  | Kingston | Jan. 31 - Feb 2 | TBD |   |
  | [Sheridan Hackville]( https://www.hackville.io/)  | Toronto | TBD | TBD |   |
  | [Hack The Valley]()  |Toronto | TBD | TBD |   |
- | [cuHAcking](https://cuhacking.com/)  | Ottawa | TBD | TBD |   |
+ | [cuHacking](https://cuhacking.com/)  | Ottawa | TBD | TBD |   |
  | [Make UofT](https://ieee.utoronto.ca/makeuoft/)  | Toronto | Feb 15-16 | TBD |   |
 
 
