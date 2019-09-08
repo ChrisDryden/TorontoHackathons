@@ -11,19 +11,19 @@ To contribute:
  
 # September
  
- | Name  |  Location | Date | Application Period |  Notes |
- |---|---|---|---|---|
- | [Citizen Hacks](https://www.citizenhacks.com/)  | Toronto | Sept. 6-8 | Applications Finished |   |
- | [CPA hacks](https://www.cpacanada.ca/en/career-and-professional-development/conferences/2019/september/2019-cpa-hacks-data-driven-financial-analysis)  |  Toronto | Sept. 13-14  |  Waitlist |   |
- | [Hack the North](https://hackthenorth.com/)  |  Waterloo | Sept. 13-15  |  Applications Finished |   |
- | [Oxford Hackathon](https://www.hackworks.com/en/OxfordHackathonToronto)  |  Toronto | Sept. 14-15  |  Applications Finished |   |
- | [Elevate Tech Jam](http://elevate.ca/events/tech-jam/)  |  Toronto | Sept. 20-22  |  Applications Finished |   |
- | [SunLife Hackathon](https://www.eventbrite.ca/e/sun-life-data-and-analytics-hackathon-tickets-64624039241?aff=ebdssbdestsearch)  |  Toronto | Sept. 20  |  Applications Finished |   |
- | [Python Gaming Hackathon](https://www.eventbrite.ca/e/python-gaming-hackathon-tickets-69231301687?aff=ebdssbdestsearch)  |  Toronto | Sept. 21  |  No Deadline |  |
-| [Pueblo Science Hackathon](http://puebloscience.org/hackathon/)  |  Toronto | Sept. 21-22  |  No Deadline | 20$ Deposit  |
- | [Next Great Innovator RBC](https://jobs.rbc.com/ca/en/next-great-innovator-hackathon)  |  Toronto | Sept. 21-22  |  Sept 8th | Only Girls  |
- | [AmpHacks](https://jobs.rbc.com/ca/en/job/192773?locale=en_US)  |  Toronto | Sept. 28-29  |  Sept. 8th |  |
- | [Orbis Challenge](https://www.orbischallenge.com)  |  Toronto | TBA  |  |  |
+ | Name  |  Location | Date | Application Period |  Notes | MLH Partnered |
+ |---|---|---|---|---|---|
+ | [Citizen Hacks](https://www.citizenhacks.com/)  | Toronto | Sept. 6-8 | Applications Finished |   | :white_check_mark: |
+ | [CPA hacks](https://www.cpacanada.ca/en/career-and-professional-development/conferences/2019/september/2019-cpa-hacks-data-driven-financial-analysis)  |  Toronto | Sept. 13-14  |  Waitlist |   | :x: |
+ | [Hack the North](https://hackthenorth.com/)  |  Waterloo | Sept. 13-15  |  Applications Finished |   | :white_check_mark: |
+ | [Oxford Hackathon](https://www.hackworks.com/en/OxfordHackathonToronto)  |  Toronto | Sept. 14-15  |  Applications Finished |   | :x: |
+ | [Elevate Tech Jam](http://elevate.ca/events/tech-jam/)  |  Toronto | Sept. 20-22  |  Applications Finished |   | :x: |
+ | [SunLife Hackathon](https://www.eventbrite.ca/e/sun-life-data-and-analytics-hackathon-tickets-64624039241?aff=ebdssbdestsearch)  |  Toronto | Sept. 20  |  Applications Finished |   | :x: |
+ | [Python Gaming Hackathon](https://www.eventbrite.ca/e/python-gaming-hackathon-tickets-69231301687?aff=ebdssbdestsearch)  |  Toronto | Sept. 21  |  No Deadline |  | :x: |
+| [Pueblo Science Hackathon](http://puebloscience.org/hackathon/)  |  Toronto | Sept. 21-22  |  No Deadline | 20$ Deposit  | :x: |
+ | [Next Great Innovator RBC](https://jobs.rbc.com/ca/en/next-great-innovator-hackathon)  |  Toronto | Sept. 21-22  |  Sept 8th | Only Girls  | :x: |
+ | [AmpHacks](https://jobs.rbc.com/ca/en/job/192773?locale=en_US)  |  Toronto | Sept. 28-29  |  Sept. 8th |  | :x: |
+ | [Orbis Challenge](https://www.orbischallenge.com)  |  Toronto | TBA  |  |  | :x: |
 
 
  
