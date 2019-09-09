@@ -29,16 +29,16 @@ To contribute:
  
 # October 
  
- | Name  |  Location | Date | Application Period |  Notes |
+ | Name  |  Location | Date | Application Period |  Notes | MLH Partnered |
  |---|---|---|---|---|
- | [Paradigm Hackathon](https://www.hackworks.com/en/paradigmx2019)  | Toronto | Oct. 1-3 | Applications Finished |   |
- | [TDot Health Hackathon]( https://www.tdothealthhack.com)  | Toronto | Oct. 4-5 | No Deadline |   |
- | [The GoldenHack](https://www.thegoldenhack.ca/)  | Waterloo | Oct. 5-6 | No Deadline |   |
- | [Hack the Nu](https://www.nuvonetwork.com/hack-the-nu)  | Burlington | Oct. 5-6 | No Deadline |   |
- | [Waterloo Space Apps](https://2019.spaceappschallenge.org/locations/kitchener-waterloo-canada)  | Waterloo | Oct. 18-20 | TBA |   |
- | [Genesys Hackathon](https://www.eventbrite.ca/e/genesys-hackathon-prizes-ms-surface-go-osmo-pocket-airpods-focals-by-north-tickets-62890236390?aff=ebdssbdestsearch)  | Toronto | Oct. 19-20 | No Deadline |  $5 to register (will be refunded once checked in) |
- | [Hack4Heritage](https://www.hack4heritage.com)  | Kingston | Oct. 25-27 | No Deadline |   |
- | [YorkU Hacks](https://yorkuhacks.com/)  | Toronto | Oct. 26-27 | Email list |   |
+ | [Paradigm Hackathon](https://www.hackworks.com/en/paradigmx2019)  | Toronto | Oct. 1-3 | Applications Finished |   | :x: |
+ | [TDot Health Hackathon]( https://www.tdothealthhack.com)  | Toronto | Oct. 4-5 | No Deadline |   | :x: |
+ | [The GoldenHack](https://www.thegoldenhack.ca/)  | Waterloo | Oct. 5-6 | No Deadline |   | :white_check_mark: |
+ | [Hack the Nu](https://www.nuvonetwork.com/hack-the-nu)  | Burlington | Oct. 5-6 | No Deadline |   | :x: |
+ | [Waterloo Space Apps](https://2019.spaceappschallenge.org/locations/kitchener-waterloo-canada)  | Waterloo | Oct. 18-20 | TBA |   | :x: |
+ | [Genesys Hackathon](https://www.eventbrite.ca/e/genesys-hackathon-prizes-ms-surface-go-osmo-pocket-airpods-focals-by-north-tickets-62890236390?aff=ebdssbdestsearch)  | Toronto | Oct. 19-20 | No Deadline |  $5 to register (will be refunded once checked in) | :x: |
+ | [Hack4Heritage](https://www.hack4heritage.com)  | Kingston | Oct. 25-27 | No Deadline |   | :x: |
+ | [YorkU Hacks](https://yorkuhacks.com/)  | Toronto | Oct. 26-27 | Email list |   | :white_check_mark: |
  
 # November
 
