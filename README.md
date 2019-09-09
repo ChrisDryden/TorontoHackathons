@@ -30,7 +30,7 @@ To contribute:
 # October 
  
  | Name  |  Location | Date | Application Period |  Notes | MLH Partnered |
- |---|---|---|---|---|
+ |---|---|---|---|---|---|
  | [Paradigm Hackathon](https://www.hackworks.com/en/paradigmx2019)  | Toronto | Oct. 1-3 | Applications Finished |   | :x: |
  | [TDot Health Hackathon]( https://www.tdothealthhack.com)  | Toronto | Oct. 4-5 | No Deadline |   | :x: |
  | [The GoldenHack](https://www.thegoldenhack.ca/)  | Waterloo | Oct. 5-6 | No Deadline |   | :white_check_mark: |
