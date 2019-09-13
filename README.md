@@ -35,7 +35,7 @@ To contribute:
  | [TDot Health Hackathon]( https://www.tdothealthhack.com)  | Toronto | Oct. 4-5 | No Deadline |   | :x: |
  | [The GoldenHack](https://www.thegoldenhack.ca/)  | Waterloo | Oct. 5-6 | No Deadline |   | :white_check_mark: |
  | [Hack the Nu](https://www.nuvonetwork.com/hack-the-nu)  | Burlington | Oct. 5-6 | No Deadline |   | :x: |
- | [Waterloo Space Apps](https://2019.spaceappschallenge.org/locations/kitchener-waterloo-canada)  | Waterloo | Oct. 18-20 | TBA |   | :x: |
+ | [Waterloo Space Apps](https://2019.spaceappschallenge.org/locations/kitchener-waterloo-canada)  | Waterloo | Oct. 18-20 | Applications Open |   | :x: |
  | [Genesys Hackathon](https://www.eventbrite.ca/e/genesys-hackathon-prizes-ms-surface-go-osmo-pocket-airpods-focals-by-north-tickets-62890236390?aff=ebdssbdestsearch)  | Toronto | Oct. 19-20 | No Deadline |  $5 Deposit | :x: |
  | [Hack4Heritage](https://www.hack4heritage.com)  | Kingston | Oct. 25-27 | No Deadline |   | :x: |
  | [YorkU Hacks](https://yorkuhacks.com/)  | Toronto | Oct. 26-27 | Email list |   | :white_check_mark: |
