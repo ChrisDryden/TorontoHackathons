@@ -13,10 +13,6 @@ To contribute:
  
  | Name  |  Location | Date | Application Period |  Notes | MLH Partnered |
  |---|---|---|---|---|---|
- | [Citizen Hacks](https://www.citizenhacks.com/)  | Toronto | Sept. 6-8 | Applications Finished |   | :white_check_mark: |
- | [CPA hacks](https://www.cpacanada.ca/en/career-and-professional-development/conferences/2019/september/2019-cpa-hacks-data-driven-financial-analysis)  |  Toronto | Sept. 13-14  |  Waitlist |   | :x: |
- | [Hack the North](https://hackthenorth.com/)  |  Waterloo | Sept. 13-15  |  Applications Finished |   | :white_check_mark: |
- | [Oxford Hackathon](https://www.hackworks.com/en/OxfordHackathonToronto)  |  Toronto | Sept. 14-15  |  Applications Finished |   | :x: |
  | [Elevate Tech Jam](http://elevate.ca/events/tech-jam/)  |  Toronto | Sept. 20-22  |  Applications Finished |   | :x: |
  | [SunLife Hackathon](https://www.eventbrite.ca/e/sun-life-data-and-analytics-hackathon-tickets-64624039241?aff=ebdssbdestsearch)  |  Toronto | Sept. 20  |  Applications Finished |   | :x: |
  | [Python Gaming Hackathon](https://www.eventbrite.ca/e/python-gaming-hackathon-tickets-69231301687?aff=ebdssbdestsearch)  |  Toronto | Sept. 21  |  No Deadline |  | :x: |
@@ -95,8 +91,12 @@ To contribute:
  | [New Hacks](https://ieee.utoronto.ca/#/)  | Toronto | March 7-8 | TBD |  |
 
 
-
+# September
  
+ | Name  |  Location | Date | Application Period |  Notes | MLH Partnered |
+ |---|---|---|---|---|---|
+ | [Hack the North](https://hackthenorth.com/)  |  Waterloo | Sept. 13-15  |  Applications Finished |   | :white_check_mark: |
+
 
 
 
