@@ -89,6 +89,7 @@ To contribute:
  | [MasseyHacks](https://masseyhacks.ca/)  | Windsor | TBD | TBD |  Highschool Hackathon |
  | [ETHUoft](https://www.ethuoft.ca)  | Toronto | TBD | TBD |  |
  | [New Hacks](https://ieee.utoronto.ca/#/)  | Toronto | March 7-8 | TBD |  |
+ | [TerribleHacks](https://terriblehack.website/)  | Waterloo | TBD | TBD |  |
 
 
 # September
