@@ -43,7 +43,7 @@ To contribute:
 # December
  | Name  |  Location | Date | Application Period |  Notes |
  |---|---|---|---|---|
- | [Hack the Hammer](https://hackthehammer.com/)  | Waterloo | Dec. 14-15 | Email List |  Highschool Hackathon |
+ | [Hack the Hammer](https://hackthehammer.com/)  | Hamilton | Dec. 14-15 | Email List |  Highschool Hackathon |
 
 
  
