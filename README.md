@@ -23,7 +23,7 @@ To contribute:
  | Name  |  Location | Date | Application Period |  Notes | MLH Partnered |
  |---|---|---|---|---|---|
  | [Paradigm Hackathon](https://www.hackworks.com/en/paradigmx2019)  | Toronto | Oct. 1-3 | Applications Finished |   | :x: |
- | [TDot Health Hackathon]( https://www.tdothealthhack.com)  | Toronto | Oct. 4-5 | No Deadline |   | :x: |
+ | [TDot Health Hackathon]( https://www.tdothealthhack.com)  | Toronto | Oct. 4-5 | Applications Finished |   | :x: |
  | [The GoldenHack](https://www.thegoldenhack.ca/)  | Waterloo | Oct. 5-6 | No Deadline |   | :white_check_mark: |
  | [Hack the Nu](https://www.nuvonetwork.com/hack-the-nu)  | Burlington | Oct. 5-6 | No Deadline |   | :x: |
  | [Waterloo Space Apps](https://2019.spaceappschallenge.org/locations/kitchener-waterloo-canada)  | Waterloo | Oct. 18-20 | Applications Open |   | :x: |
@@ -38,7 +38,7 @@ To contribute:
  | [Electric City Hacks](https://echacks.dev/)  | Peterbourough | Nov. 1-3 | Email list |   |
  | [ETHWaterloo](https://ethwaterloo.com/)  | Waterloo | Nov. 8-10 | No Deadline |   |
  | [Digital for Good Tech Jam](https://www.digitalforgood.com/)  | Toronto | Nov. 15-17 | Email list |   |
- | [Hack Western 6](https://hackwestern.com/)  | London | Nov. 22-24 | Email list |   |
+ | [Hack Western 6](https://hackwestern.com/)  | London | Nov. 22-24 | Applications open Sept. 26th |   |
  
 # December
  | Name  |  Location | Date | Application Period |  Notes |
