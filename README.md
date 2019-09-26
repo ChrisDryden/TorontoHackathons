@@ -14,7 +14,6 @@ To contribute:
  | Name  |  Location | Date | Application Period |  Notes | MLH Partnered |
  |---|---|---|---|---|---|
  | [AmpHacks](https://jobs.rbc.com/ca/en/job/192773?locale=en_US)  |  Toronto | Sept. 28-29  |  Sept. 8th |  | :x: |
- | [Orbis Challenge](https://www.orbischallenge.com)  |  Toronto | TBA  |  |  | :x: |
 
 
  
@@ -24,7 +23,7 @@ To contribute:
  |---|---|---|---|---|---|
  | [Paradigm Hackathon](https://www.hackworks.com/en/paradigmx2019)  | Toronto | Oct. 1-3 | Applications Finished |   | :x: |
  | [TDot Health Hackathon]( https://www.tdothealthhack.com)  | Toronto | Oct. 4-5 | Applications Finished |   | :x: |
- | [The GoldenHack](https://www.thegoldenhack.ca/)  | Waterloo | Oct. 5-6 | No Deadline |   | :white_check_mark: |
+ | [The GoldenHack](https://www.thegoldenhack.ca/)  | Waterloo | Oct. 5-6 | Sept 27th |   | :white_check_mark: |
  | [Hack the Nu](https://www.nuvonetwork.com/hack-the-nu)  | Burlington | Oct. 5-6 | No Deadline |   | :x: |
  | [Waterloo Space Apps](https://2019.spaceappschallenge.org/locations/kitchener-waterloo-canada)  | Waterloo | Oct. 18-20 | Applications Open |   | :x: |
  | [Genesys Hackathon](https://www.eventbrite.ca/e/genesys-hackathon-prizes-ms-surface-go-osmo-pocket-airpods-focals-by-north-tickets-62890236390?aff=ebdssbdestsearch)  | Toronto | Oct. 19-20 | No Deadline |  $5 Deposit | :x: |
@@ -35,7 +34,7 @@ To contribute:
 
  | Name  |  Location | Date | Application Period |  Notes |
  |---|---|---|---|---|
- | [Electric City Hacks](https://echacks.dev/)  | Peterbourough | Nov. 1-3 | Email list |   |
+ | [Electric City Hacks](https://echacks.dev/)  | Peterbourough | Nov. 1-3 | Opens Oct. 1 |   |
  | [ETHWaterloo](https://ethwaterloo.com/)  | Waterloo | Nov. 8-10 | No Deadline |   |
  | [Digital for Good Tech Jam](https://www.digitalforgood.com/)  | Toronto | Nov. 15-17 | Email list |   |
  | [Hack Western 6](https://hackwestern.com/)  | London | Nov. 22-24 | Applications open Sept. 26th |   |
