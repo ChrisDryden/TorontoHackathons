@@ -9,11 +9,6 @@ To contribute:
 
 
  
-# September
- 
- | Name  |  Location | Date | Application Period |  Notes | MLH Partnered |
- |---|---|---|---|---|---|
- | [AmpHacks](https://jobs.rbc.com/ca/en/job/192773?locale=en_US)  |  Toronto | Sept. 28-29  |  Sept. 8th |  | :x: |
 
 
  
@@ -21,10 +16,6 @@ To contribute:
  
  | Name  |  Location | Date | Application Period |  Notes | MLH Partnered |
  |---|---|---|---|---|---|
- | [Paradigm Hackathon](https://www.hackworks.com/en/paradigmx2019)  | Toronto | Oct. 1-3 | Applications Finished |   | :x: |
- | [TDot Health Hackathon]( https://www.tdothealthhack.com)  | Toronto | Oct. 4-5 | Applications Finished |   | :x: |
- | [The GoldenHack](https://www.thegoldenhack.ca/)  | Waterloo | Oct. 5-6 | Sept 27th |   | :white_check_mark: |
- | [Hack the Nu](https://www.nuvonetwork.com/hack-the-nu)  | Burlington | Oct. 5-6 | No Deadline |   | :x: |
  | [Waterloo Space Apps](https://2019.spaceappschallenge.org/locations/kitchener-waterloo-canada)  | Waterloo | Oct. 18-20 | Applications Open |   | :x: |
  | [Fidelity Hackathon]( https://docs.google.com/forms/d/e/1FAIpQLSfA-7_a9va6_2_Y7JNgDEb9C_4QfsheJ06huQyunIkLloFwrA/viewform)  | Toronto | Oct. 18-20 | Oct. 8th |   | :x: |
  | [Genesys Hackathon](https://www.eventbrite.ca/e/genesys-hackathon-prizes-ms-surface-go-osmo-pocket-airpods-focals-by-north-tickets-62890236390?aff=ebdssbdestsearch)  | Toronto | Oct. 19-20 | No Deadline |  $5 Deposit | :x: |
