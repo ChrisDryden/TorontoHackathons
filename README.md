@@ -41,6 +41,7 @@ To contribute:
  | [ETHWaterloo](https://ethwaterloo.com/)  | Waterloo | Nov. 8-10 | No Deadline |   |
  | [Digital for Good Tech Jam](https://www.digitalforgood.com/)  | Toronto | Nov. 15-17 | Email list |   |
  | [Hack Western 6](https://hackwestern.com/)  | London | Nov. 22-24 | Applications open Sept. 26th |   |
+  | [Canada Learning Code](https://www.canadalearningcode.ca/hackathons/)  | Toronto | Nov. 30 - Dec 1 | TBD | Highschool Hackathon |
  
 # December
  | Name  |  Location | Date | Application Period |  Notes |
