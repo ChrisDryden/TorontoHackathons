@@ -43,7 +43,7 @@ To contribute:
 # January
 
  | Name  |  Location | Date | Application Period |  Notes | MLH Partnered |
- |---|---|---|---|---|
+ |---|---|---|---|---|---|
  | [UTek Competition](https://utek.skule.ca)  | Toronto | Jan. 11 - 12 | TBD |   | :x: |
  | [CuHacking](https://cuhacking.com/)  | Ottawa | Jan. 11 - 12 | Email List |   | :white_check_mark: |
  | [UofT Hacks](https://uofthacks.com/)  | Toronto | Jan. 17 - 19 | TBD |   | TBD |
