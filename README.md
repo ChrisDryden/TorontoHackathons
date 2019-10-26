@@ -9,20 +9,6 @@ To contribute:
 
 
  
-
-
- 
-# October 
- 
- | Name  |  Location | Date | Application Period |  Notes | MLH Partnered |
- |---|---|---|---|---|---|
- | [Waterloo Space Apps](https://2019.spaceappschallenge.org/locations/kitchener-waterloo-canada)  | Waterloo | Oct. 18-20 | Applications Open |   | :x: |
- | [Fidelity Hackathon]( https://docs.google.com/forms/d/e/1FAIpQLSfA-7_a9va6_2_Y7JNgDEb9C_4QfsheJ06huQyunIkLloFwrA/viewform)  | Toronto | Oct. 18-20 | Oct. 8th |   | :x: |
- | [Genesys Hackathon](https://www.eventbrite.ca/e/genesys-hackathon-prizes-ms-surface-go-osmo-pocket-airpods-focals-by-north-tickets-62890236390?aff=ebdssbdestsearch)  | Toronto | Oct. 19-20 | No Deadline |  $5 Deposit | :x: |
- | [Hack4Heritage](https://www.hack4heritage.com)  | Kingston | Oct. 25-27 | No Deadline |   | :x: |
- 
- 
- 
 # November
 
  | Name  |  Location | Date | Application Period |  Notes |
