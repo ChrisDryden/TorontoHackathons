@@ -13,16 +13,16 @@ To contribute:
 
  | Name  |  Location | Date | Application Period |  Notes |
  |---|---|---|---|---|
- | [Electric City Hacks](https://echacks.dev/)  | Peterbourough | Nov. 1-3 | Opens Oct. 1 |   |
- | [ETHWaterloo](https://ethwaterloo.com/)  | Waterloo | Nov. 8-10 | No Deadline |   |
- | [Digital for Good Tech Jam](https://www.digitalforgood.com/)  | Toronto | Nov. 15-17 | Email list |   |
- | [Hack Western 6](https://hackwestern.com/)  | London | Nov. 22-24 | Applications open Sept. 26th |   |
+ | [Electric City Hacks](https://echacks.dev/)  | Peterbourough | Nov. 1-3 | Applications Closed |   |
+ | [ETHWaterloo](https://ethwaterloo.com/)  | Waterloo | Nov. 8-10 | Application Close Nov 1st |   |
+ | [Digital for Good Tech Jam](https://www.digitalforgood.com/)  | Toronto | Nov. 15-17 | Company Only Registration |   |
+ | [Hack Western 6](https://hackwestern.com/)  | London | Nov. 22-24 | Applications Closed |   |
   | [Canada Learning Code](https://www.canadalearningcode.ca/hackathons/)  | Toronto | Nov. 30 - Dec 1 | TBD | Highschool Hackathon |
  
 # December
  | Name  |  Location | Date | Application Period |  Notes |
  |---|---|---|---|---|
- | [Hack the Hammer](https://hackthehammer.com/)  | Hamilton | Dec. 14-15 | Email List |  Highschool Hackathon |
+ | [Hack the Hammer](https://hackthehammer.com/)  | Hamilton | Dec. 14-15 | Application Open |  Highschool Hackathon |
 
 
  
