@@ -32,12 +32,12 @@ To contribute:
  |---|---|---|---|---|---|
  | [UTek Competition](https://utek.skule.ca)  | Toronto | Jan. 11 - 12 | TBD |   | :x: |
  | [CuHacking](https://cuhacking.com/)  | Ottawa | Jan. 11 - 12 | Email List |   | :white_check_mark: |
- | [UofT Hacks](https://uofthacks.com/)  | Toronto | Jan. 17 - 19 | TBD |   | TBD |
- | [StarterHacks](https://www.starterhacks.ca)  | Toronto | Jan. 18-19 | Email List |   | TBD |
- | [DeltaHacks](https://www.deltahacks.com/) | Hamilton | Jan. 25 - 26 | TBD | Application is out now  | :white_check_mark: |
- | [ConU Hacks](https://conuhacks.io)  | Montreal | Jan. 25 - 26 | Email List | Bus to Toronto | :white_check_mark: |
+ | [UofT Hacks](https://uofthacks.com/)  | Toronto | Jan. 17 - 19 | Deadline: Dec 31st | Applications are open | TBD |
+ | [StarterHacks](https://www.starterhacks.ca)  | Toronto | Jan. 18-19 | TBD | Applications are open | TBD |
+ | [DeltaHacks](https://www.deltahacks.com/) | Hamilton | Jan. 25 - 26 | TBD | Applications are open  | :white_check_mark: |
+ | [ConU Hacks](https://conuhacks.io)  | Montreal | Jan. 25 - 26 | TBD | Applications are open - Bus to Toronto | :white_check_mark: |
  | [NSBE Hacks](http://www.nsbehacksuoft.ca)  | Toronto | Jan. 26 | TBD |   | :x: |
- | [SheHacks](https://shehacks.ca) | Toronto | TBD | TBD |  Only Girls  | :x: |
+ | [SheHacks](https://shehacks.ca) | Toronto | TBD | TBD |  Applications are open - Only Girls  | :x: |
  | [Daisy Intelligence Challenge](http://info.daisyintelligence.com/hackathon) | Toronto | TBD | TBD |   | :x: |
 
 
