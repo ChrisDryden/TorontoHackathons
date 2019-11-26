@@ -50,7 +50,6 @@ To contribute:
  |---|---|---|---|---|
  | [ElleHacks](https://ellehacks.com/) | Toronto | TBD | TBD | Only Girls   |
  | [QHacks](https://qhacks.io/)  | Kingston | Jan. 31 - Feb 2 | Email List |   |
- | [Sheridan Hackville]( https://www.hackville.io/)  | Toronto | TBD | TBD |   |
  | [Hack The Valley]()  |Toronto | TBD | TBD |   |
  | [Make UofT](https://ieee.utoronto.ca/makeuoft/)  | Toronto | Feb 15-16 | Email List |   |
 
@@ -61,6 +60,7 @@ To contribute:
  |---|---|---|---|---|
  | [HackLassonde](http://hacklassonde.ca/)  | Toronto | TBD | TBD |   |
  | [ETHUoft](https://www.ethuoft.ca)  | Toronto | TBD | TBD |  |
+ | [Sheridan Hackville]( https://www.hackville.io/)  | Oakville | TBD | TBD |   |
  | [New Hacks](https://ieee.utoronto.ca/#/)  | Toronto | March 7-8 | TBD |  |
  | [TerribleHacks](https://terriblehack.website/)  | Waterloo | TBD | TBD |  |
 
