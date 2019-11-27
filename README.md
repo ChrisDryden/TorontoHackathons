@@ -62,7 +62,6 @@ To contribute:
  | [HackLassonde](http://hacklassonde.ca/)  | Toronto | TBD | TBD |   |
  | [ETHUoft](https://www.ethuoft.ca)  | Toronto | TBD | TBD |  |
  | [New Hacks](https://ieee.utoronto.ca/#/)  | Toronto | March 7-8 | TBD |  |
- | [TerribleHacks](https://terriblehack.website/)  | Waterloo | TBD | TBD |  |
 
 
 # April
