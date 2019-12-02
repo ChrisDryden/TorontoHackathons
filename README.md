@@ -31,7 +31,7 @@ To contribute:
  | Name  |  Location | Date | Application Period |  Notes | MLH Partnered |
  |---|---|---|---|---|---|
  | [UTek Competition](https://utek.skule.ca)  | Toronto | Jan. 11 - 12 | TBD |   | :x: |
- | [CuHacking](https://cuhacking.com/)  | Ottawa | Jan. 11 - 12 | Email List |   | :white_check_mark: |
+ | [CuHacking](https://cuhacking.com/)  | Ottawa | Jan. 11 - 12 | Applications are open |   | :white_check_mark: |
  | [UofT Hacks](https://uofthacks.com/)  | Toronto | Jan. 17 - 19 | Deadline: Dec 31st | Applications are open | TBD |
  | [StarterHacks](https://www.starterhacks.ca)  | Toronto | Jan. 18-19 | TBD | Applications are open | TBD |
  | [DeltaHacks](https://www.deltahacks.com/) | Hamilton | Jan. 25 - 26 | TBD | Applications are open  | :white_check_mark: |
