@@ -7,42 +7,29 @@ To contribute:
  3. Open a pull request!
 
 
-
-
- 
-# December
- | Name  |  Location | Date | Application Period |  Notes |
- |---|---|---|---|---|
- | [Hack the Hammer](https://hackthehammer.com/)  | Hamilton | Dec. 14-15 | Application Open |  Highschool Hackathon |
-
-
- 
 # January
 
  | Name  |  Location | Date | Application Period |  Notes | MLH Partnered |
  |---|---|---|---|---|---|
- | [UTek Competition](https://utek.skule.ca)  | Toronto | Jan. 11 - 12 | TBD |   | :x: |
+ | [UTek Competition](https://utek.skule.ca)  | Toronto | Jan. 11 - 12 | [No Application Needed](https://www.eventbrite.ca/e/utek-2020-tickets-76836493019) |   | :x: |
  | [CuHacking](https://cuhacking.com/)  | Ottawa | Jan. 11 - 12 | Applications are open |   | :white_check_mark: |
- | [UofT Hacks](https://uofthacks.com/)  | Toronto | Jan. 17 - 19 | Deadline: Dec 31st | Applications are open | TBD |
- | [StarterHacks](https://www.starterhacks.ca)  | Toronto | Jan. 18-19 | TBD | Applications are open | TBD |
- | [DeltaHacks](https://www.deltahacks.com/) | Hamilton | Jan. 25 - 26 | TBD | Applications are open  | :white_check_mark: |
+ | [UofT Hacks](https://uofthacks.com/)  | Toronto | Jan. 17 - 19 | Applications are closed | Applications are open | :white_check_mark: |
+ | [StarterHacks](https://www.starterhacks.ca)  | Toronto | Jan. 18-19 | Mailing List |  | :white_check_mark: |
+ | [DeltaHacks](https://www.deltahacks.com/) | Hamilton | Jan. 25 - 26 | Applications are open |  | :white_check_mark: |
  | [ConU Hacks](https://conuhacks.io)  | Montreal | Jan. 25 - 26 | TBD | Applications are open - Bus to Toronto | :white_check_mark: |
- | [NSBE Hacks](http://www.nsbehacksuoft.ca)  | Toronto | Jan. 26 | TBD |   | :x: |
- | [SheHacks](https://shehacks.ca) | Toronto | TBD | TBD |  Applications are open - Only Girls  | :x: |
- | [Daisy Intelligence Challenge](http://info.daisyintelligence.com/hackathon) | Toronto | TBD | TBD |   | :x: |
-
-
+ | [SheHacks](https://shehacks.ca) | Toronto | Jan 11-12 | Applications are open | Only Girls  | :white_check_mark: |
 
  
 
 # February
 
- | Name  |  Location | Date | Application Period |  Notes |
- |---|---|---|---|---|
- | [ElleHacks](https://ellehacks.com/) | Toronto | TBD | TBD | Only Girls   |
- | [QHacks](https://qhacks.io/)  | Kingston | Jan. 31 - Feb 2 | Email List |   |
- | [Hack The Valley]()  |Toronto | TBD | TBD |   |
- | [Make UofT](https://ieee.utoronto.ca/makeuoft/)  | Toronto | Feb 15-16 | Email List |   |
+ | Name  |  Location | Date | Application Period |  Notes | MLH Partnered |
+ |---|---|---|---|---|---|
+ | [ElleHacks](https://ellehacks.com/) | Toronto | Jan 31 - Feb 2 | Registration Open | Only Girls | :white_check_mark: |
+ | [QHacks](https://qhacks.io/)  | Kingston | Jan 31 - Feb 2 | Email List |   | :white_check_mark: |
+ | [NSBE Hacks](http://www.nsbehacksuoft.ca)  | Toronto | Feb 8-9 | Applications are Open |   | :x: |
+ | [Hack The Valley](https://hackthevalley.io/)  | Toronto | TBD | TBD |   | :x: |
+ | [Make UofT](https://ieee.utoronto.ca/makeuoft/)  | Toronto | Feb 15-16 | Email List |   | :white_check_mark: |
 
 
 # March
