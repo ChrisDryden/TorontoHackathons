@@ -13,11 +13,11 @@ To contribute:
  |---|---|---|---|---|---|
  | [UTek Competition](https://utek.skule.ca)  | Toronto | Jan. 11 - 12 | [No Application Needed](https://www.eventbrite.ca/e/utek-2020-tickets-76836493019) |   | :x: |
  | [CuHacking](https://cuhacking.com/)  | Ottawa | Jan. 11 - 12 | Applications are open |   | :white_check_mark: |
+  | [SheHacks](https://shehacks.ca) | Toronto | Jan 11-12 | Applications are open | Only Girls  | :white_check_mark: |
  | [UofT Hacks](https://uofthacks.com/)  | Toronto | Jan. 17 - 19 | Applications are closed |  | :white_check_mark: |
  | [StarterHacks](https://www.starterhacks.ca)  | Toronto | Jan. 18-19 | Mailing List |  | :white_check_mark: |
  | [DeltaHacks](https://www.deltahacks.com/) | Hamilton | Jan. 25 - 26 | Applications are open |  | :white_check_mark: |
  | [ConU Hacks](https://conuhacks.io)  | Montreal | Jan. 25 - 26 | Applications are open - Bus to Toronto |  | :white_check_mark: |
- | [SheHacks](https://shehacks.ca) | Toronto | Jan 11-12 | Applications are open | Only Girls  | :white_check_mark: |
 
  
 
