@@ -25,7 +25,6 @@ To contribute:
  | [ElleHacks](https://ellehacks.com/) | Toronto | Jan 31 - Feb 2 | Registration Open | Only Girls | :white_check_mark: |
  | [QHacks](https://qhacks.io/)  | Kingston | Jan 31 - Feb 2 | Applications are Open |   | :white_check_mark: |
  | [NSBE Hacks](http://www.nsbehacksuoft.ca)  | Toronto | Feb 8-9 | Applications are Open |   | :x: |
- | [Sheridan Hackville]( https://www.hackville.io/)  | Oakville | Feb 8-10 | Applications are Open |   | :white_check_mark: |
  | [Hack The Valley](https://hackthevalley.io/)  | Toronto | Feb 14-16 | TBD |   | :white_check_mark: |
  | [Make UofT](https://ieee.utoronto.ca/makeuoft/)  | Toronto | Feb 15-16 | Applications are Open |   | :white_check_mark: |
 
@@ -37,6 +36,7 @@ To contribute:
  | [HackLassonde](http://hacklassonde.ca/)  | Toronto | TBD | TBD |   |
  | [ETHUoft](https://www.ethuoft.ca)  | Toronto | TBD | TBD |  |
  | [New Hacks](https://ieee.utoronto.ca/#/)  | Toronto | March 7-8 | TBD |  |
+ | [Sheridan Hackville]( https://www.hackville.io/)  | Oakville | March 13-14 | Applications open Jan 20 |   | :white_check_mark: |
 
 
 # April
