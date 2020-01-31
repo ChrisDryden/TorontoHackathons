@@ -11,10 +11,10 @@ To contribute:
 
  | Name  |  Location | Date | Application Period |  Notes | MLH Partnered |
  |---|---|---|---|---|---|
- | [UofT Hacks](https://uofthacks.com/)  | Toronto | Jan. 17 - 19 | Applications are closed |  | :white_check_mark: |
- | [StarterHacks](https://www.starterhacks.ca)  | Toronto | Jan. 18-19 | Mailing List |  | :white_check_mark: |
- | [DeltaHacks](https://www.deltahacks.com/) | Hamilton | Jan. 25 - 26 | Applications are open |  | :white_check_mark: |
- | [ConU Hacks](https://conuhacks.io)  | Montreal | Jan. 25 - 26 | Applications are open - Bus to Toronto |  | :white_check_mark: |
+ | [UofT Hacks](https://uofthacks.com/)  | Toronto | Jan. 17 - 19 | Hackathon is over |  | :white_check_mark: |
+ | [StarterHacks](https://www.starterhacks.ca)  | Toronto | Jan. 18-19 | Hackathon is over |  | :white_check_mark: |
+ | [DeltaHacks](https://www.deltahacks.com/) | Hamilton | Jan. 25 - 26 | Hackathon is over |  | :white_check_mark: |
+ | [ConU Hacks](https://conuhacks.io)  | Montreal | Jan. 25 - 26 | Hackathon is over - Bus to Toronto |  | :white_check_mark: |
 
  
 
@@ -47,9 +47,9 @@ To contribute:
 
 # April
 
- | Name  |  Location | Date | Application Period |  Notes |
- |---|---|---|---|---|
- | [ADI Hackathon](https://eventchain.io/event-details/f9c7436eb38559d1bed413bfcf810597/ADI_Toronto_Summit_and_Hackathon) | Toronto | Apr 23-24 | During weekdays | :x: |
+ | Name  |  Location | Date | Application Period |  Notes | MLH Partenered |
+ |---|---|---|---|---|---|
+ | [ADI Hackathon](https://eventchain.io/event-details/f9c7436eb38559d1bed413bfcf810597/ADI_Toronto_Summit_and_Hackathon) | Toronto | Apr 23-24 | Applications are open | During weekdays | :x: |
  | [MasseyHacks](https://masseyhacks.ca/)  | Windsor | Apr. 25 - 26 | TBD |  Highschool Hackathon |
 
 # May
