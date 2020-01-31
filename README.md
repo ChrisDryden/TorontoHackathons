@@ -26,12 +26,13 @@ To contribute:
  | [QHacks](https://qhacks.io/)  | Kingston | Jan 31 - Feb 2 | Applications are Open |   | :white_check_mark: |
  | [DesignathonUofT](https://www.eventbrite.com/e/designathon-uoft-2020-tickets-84530550151/) | Toronto | Feb 1-2 | Tickets are available | Focused on Design | :x: |
  | [McHacks](https://mchacks.ca/) | McGill | Feb 1-2 | Applications are Closed |   | :x: |
+ | [WAC Sprint Hackathon](https://www.eventbrite.com/e/sprint-hackathon-tickets-89766789885) | Toronto | Feb 3-4 | [Applications Open](http://worldaffairs.ucc.on.ca/wacathon/index.html) |   | :x: |
  | [NSBE Hacks](http://www.nsbehacksuoft.ca)  | Toronto | Feb 8-9 | Applications are Open |   | :x: |
  | [uOttaHack](https://2020.uottahack.ca/)  | Ottawa | Feb 7-9 | Applications are Closed |   | :x: |
- | [Sheridan Hackville]( https://www.hackville.io/)  | Oakville | Feb 8-10 | Applications are Open |   | :white_check_mark: |
  | [Hack The Valley](https://hackthevalley.io/)  | Toronto | Feb 14-16 | TBD |   | :white_check_mark: |
  | [Make UofT](https://ieee.utoronto.ca/makeuoft/)  | Toronto | Feb 15-16 | Applications are Open |   | :white_check_mark: |
  | [Aurora Hackathon](https://www.eventbrite.ca/e/aurora-hackathon-tickets-86600352987) | Aurora | Feb 17-18 | Registration Open | Ages 16-19, during weekdays | :x: |
+ | [Steacie Library Dungeon Hackfest](https://hackfest.library.yorku.ca/2020/) | Toronto | Feb 19-20 | Registrations Open Early February |  | :x: |
  | [TurnerHacks](https://turnerhacks.com/)  | Brampton | Feb 29 | Jan 16 | Highschool Hackathon | :x: |
 
 
@@ -44,19 +45,24 @@ To contribute:
  | [New Hacks](https://ieee.utoronto.ca/#/)  | Toronto | March 7-8 | TBD |  |
  | [Sheridan Hackville]( https://www.hackville.io/)  | Oakville | March 13-14 | Applications are open |   | :white_check_mark: |
 
-
 # April
 
  | Name  |  Location | Date | Application Period |  Notes | MLH Partenered |
  |---|---|---|---|---|---|
  | [ADI Hackathon](https://eventchain.io/event-details/f9c7436eb38559d1bed413bfcf810597/ADI_Toronto_Summit_and_Hackathon) | Toronto | Apr 23-24 | Applications are open | During weekdays | :x: |
- | [MasseyHacks](https://masseyhacks.ca/)  | Windsor | Apr. 25 - 26 | TBD |  Highschool Hackathon |
+ | [MasseyHacks](https://masseyhacks.ca/)  | Windsor | Apr. 25 - 26 | TBD |  Highschool Hackathon | :x: |
 
 # May
 
  | Name  |  Location | Date | Application Period |  Notes | MLH Partenered |
  |---|---|---|---|---|---|
  | [TOHacks](https://www.tohacks.ca/)  | Toronto | May 2-3 | TBD |  | :x: |
+
+# June
+
+ | Name  |  Location | Date | Application Period |  Notes | MLH Partenered |
+ |---|---|---|---|---|---|
+ | [IWP9 Hackathon](https://www.eventbrite.com/e/iwp9-2020-tickets-87082440925) | Waterloo | Tickets Are Available |  Some time between June 14-19 |  | :x: |
 
 # September
  
