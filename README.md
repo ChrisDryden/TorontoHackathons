@@ -27,7 +27,7 @@ To contribute:
  | [DesignathonUofT](https://www.eventbrite.com/e/designathon-uoft-2020-tickets-84530550151/) | Toronto | Feb 1-2 | Tickets are available | Focused on Design | :x: |
  | [McHacks](https://mchacks.ca/) | McGill | Feb 1-2 | Applications are Closed |   | :x: |
  | [NSBE Hacks](http://www.nsbehacksuoft.ca)  | Toronto | Feb 8-9 | Applications are Open |   | :x: |
- | [uOttaHack](https://2020.uottahack.ca/)  | Ottawa | Feb 7-9 | Applications are Open |   | :x: |
+ | [uOttaHack](https://2020.uottahack.ca/)  | Ottawa | Feb 7-9 | Applications are Closed |   | :x: |
  | [Sheridan Hackville]( https://www.hackville.io/)  | Oakville | Feb 8-10 | Applications are Open |   | :white_check_mark: |
  | [Hack The Valley](https://hackthevalley.io/)  | Toronto | Feb 14-16 | TBD |   | :white_check_mark: |
  | [Make UofT](https://ieee.utoronto.ca/makeuoft/)  | Toronto | Feb 15-16 | Applications are Open |   | :white_check_mark: |
@@ -42,7 +42,7 @@ To contribute:
  | [HackLassonde](http://hacklassonde.ca/)  | Toronto | TBD | TBD |   |
  | [ETHUoft](https://www.ethuoft.ca)  | Toronto | TBD | TBD |  |
  | [New Hacks](https://ieee.utoronto.ca/#/)  | Toronto | March 7-8 | TBD |  |
- | [Sheridan Hackville]( https://www.hackville.io/)  | Oakville | March 13-14 | Applications open Jan 20 |   | :white_check_mark: |
+ | [Sheridan Hackville]( https://www.hackville.io/)  | Oakville | March 13-14 | Applications are open |   | :white_check_mark: |
 
 
 # April
