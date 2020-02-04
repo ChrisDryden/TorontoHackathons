@@ -6,26 +6,12 @@ To contribute:
  2. Edit README.md
  3. Open a pull request!
 
-
-# January
-
- | Name  |  Location | Date | Application Period |  Notes | MLH Partnered |
- |---|---|---|---|---|---|
- | [UofT Hacks](https://uofthacks.com/)  | Toronto | Jan. 17 - 19 | Hackathon is over |  | :white_check_mark: |
- | [StarterHacks](https://www.starterhacks.ca)  | Toronto | Jan. 18-19 | Hackathon is over |  | :white_check_mark: |
- | [DeltaHacks](https://www.deltahacks.com/) | Hamilton | Jan. 25 - 26 | Hackathon is over |  | :white_check_mark: |
- | [ConU Hacks](https://conuhacks.io)  | Montreal | Jan. 25 - 26 | Hackathon is over - Bus to Toronto |  | :white_check_mark: |
-
  
 
 # February
 
  | Name  |  Location | Date | Application Period |  Notes | MLH Partnered |
  |---|---|---|---|---|---|
- | [ElleHacks](https://ellehacks.com/) | Toronto | Jan 31 - Feb 2 | Registration Open | Only Girls | :white_check_mark: |
- | [QHacks](https://qhacks.io/)  | Kingston | Jan 31 - Feb 2 | Applications are Open |   | :white_check_mark: |
- | [DesignathonUofT](https://www.eventbrite.com/e/designathon-uoft-2020-tickets-84530550151/) | Toronto | Feb 1-2 | Tickets are available | Focused on Design | :x: |
- | [McHacks](https://mchacks.ca/) | McGill | Feb 1-2 | Applications are Closed |   | :x: |
  | [NSBE Hacks](http://www.nsbehacksuoft.ca)  | Toronto | Feb 8-9 | Applications are Open |   | :x: |
  | [uOttaHack](https://2020.uottahack.ca/)  | Ottawa | Feb 7-9 | Applications are Closed |   | :x: |
  | [Sheridan Hackville]( https://www.hackville.io/)  | Oakville | Feb 8-10 | Applications are Open |   | :white_check_mark: |
