@@ -15,7 +15,7 @@ To contribute:
  | [NSBE Hacks](http://www.nsbehacksuoft.ca)  | Toronto | Feb 8-9 | Applications are Open |   | :x: |
  | [uOttaHack](https://2020.uottahack.ca/)  | Ottawa | Feb 7-9 | Applications are Closed |   | :x: |
  | [Sheridan Hackville]( https://www.hackville.io/)  | Oakville | Feb 8-10 | Applications are Open |   | :white_check_mark: |
- | [Hack The Valley](https://hackthevalley.io/)  | Toronto | Feb 14-16 | TBD |   | :white_check_mark: |
+ | [Hack The Valley](https://hackthevalley.io/)  | Toronto | Feb 14-16 | Applciations Open |   | :white_check_mark: |
  | [Make UofT](https://ieee.utoronto.ca/makeuoft/)  | Toronto | Feb 15-16 | Applications are Open |   | :white_check_mark: |
  | [Aurora Hackathon](https://www.eventbrite.ca/e/aurora-hackathon-tickets-86600352987) | Aurora | Feb 17-18 | Registration Open | Ages 16-19, during weekdays | :x: |
  | [TurnerHacks](https://turnerhacks.com/)  | Brampton | Feb 29 | Jan 16 | Highschool Hackathon | :x: |
