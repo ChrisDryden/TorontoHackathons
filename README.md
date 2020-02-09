@@ -12,8 +12,6 @@ To contribute:
 
  | Name  |  Location | Date | Application Period |  Notes | MLH Partnered |
  |---|---|---|---|---|---|
- | [Hack The Valley](https://hackthevalley.io/)  | Toronto | Feb 14-16 | TBD |   | :white_check_mark: |
- | [Make UofT](https://ieee.utoronto.ca/makeuoft/)  | Toronto | Feb 15-16 | Applications are Open |   | :white_check_mark: |
  | [Aurora Hackathon](https://www.eventbrite.ca/e/aurora-hackathon-tickets-86600352987) | Aurora | Feb 17-18 | Registration Open | Ages 16-19, during weekdays | :x: |
  | [Steacie Library Dungeon Hackfest](https://hackfest.library.yorku.ca/2020/) | Toronto | Feb 19-20 | Registrations Open Early February |  | :x: |
  | [TurnerHacks](https://turnerhacks.com/)  | Brampton | Feb 29 | Jan 16 | Highschool Hackathon | :x: |
