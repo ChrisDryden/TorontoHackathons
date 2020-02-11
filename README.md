@@ -31,12 +31,14 @@ To contribute:
 
 # March
 
- | Name  |  Location | Date | Application Period |  Notes |
- |---|---|---|---|---|
+ | Name  |  Location | Date | Application Period |  Notes | MLH Partnered |
+ |---|---|---|---|---|---|
  | [HackLassonde](http://hacklassonde.ca/)  | Toronto | TBD | TBD |   |
  | [ETHUoft](https://www.ethuoft.ca)  | Toronto | TBD | TBD |  |
  | [New Hacks](https://ieee.utoronto.ca/#/)  | Toronto | March 7-8 | TBD |  |
- | [Sheridan Hackville]( https://www.hackville.io/)  | Oakville | March 13-14 | Applications open Jan 20 |   | :white_check_mark: |
+ | [Sheridan Hackville]( https://www.hackville.io/)  | Oakville | March 13-14 | Applications open |   |
+ | [MacHacks]( https://www.machacks.ca/)  | Hamilton | March 21-22 | Applications open |   |
+ | [WinHacks]( https://winhacks.ca/)  | Windsor | March 27-29 | Applications open |   |
 
 
 # April
