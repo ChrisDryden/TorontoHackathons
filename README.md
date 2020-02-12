@@ -12,13 +12,6 @@ To contribute:
 
  | Name  |  Location | Date | Application Period |  Notes | MLH Partnered |
  |---|---|---|---|---|---|
- | [ElleHacks](https://ellehacks.com/) | Toronto | Jan 31 - Feb 2 | Registration Open | Only Girls | :white_check_mark: |
- | [QHacks](https://qhacks.io/)  | Kingston | Jan 31 - Feb 2 | Applications are Open |   | :white_check_mark: |
- | [DesignathonUofT](https://www.eventbrite.com/e/designathon-uoft-2020-tickets-84530550151/) | Toronto | Feb 1-2 | Tickets are available | Focused on Design | :x: |
- | [McHacks](https://mchacks.ca/) | McGill | Feb 1-2 | Applications are Closed |   | :x: |
- | [WAC Sprint Hackathon](https://www.eventbrite.com/e/sprint-hackathon-tickets-89766789885) | Toronto | Feb 3-4 | [Applications Open](http://worldaffairs.ucc.on.ca/wacathon/index.html) |   | :x: |
- | [NSBE Hacks](http://www.nsbehacksuoft.ca)  | Toronto | Feb 8-9 | Applications are Open |   | :x: |
- | [uOttaHack](https://2020.uottahack.ca/)  | Ottawa | Feb 7-9 | Applications are Closed |   | :x: |
  | [Hack The Valley](https://hackthevalley.io/)  | Toronto | Feb 14-16 | TBD |   | :white_check_mark: |
  | [Make UofT](https://ieee.utoronto.ca/makeuoft/)  | Toronto | Feb 15-16 | Applications are Open |   | :white_check_mark: |
  | [Aurora Hackathon](https://www.eventbrite.ca/e/aurora-hackathon-tickets-86600352987) | Aurora | Feb 17-18 | Registration Open | Ages 16-19, during weekdays | :x: |
