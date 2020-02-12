@@ -6,16 +6,6 @@ To contribute:
  2. Edit README.md
  3. Open a pull request!
 
-
-# January
-
- | Name  |  Location | Date | Application Period |  Notes | MLH Partnered |
- |---|---|---|---|---|---|
- | [UofT Hacks](https://uofthacks.com/)  | Toronto | Jan. 17 - 19 | Hackathon is over |  | :white_check_mark: |
- | [StarterHacks](https://www.starterhacks.ca)  | Toronto | Jan. 18-19 | Hackathon is over |  | :white_check_mark: |
- | [DeltaHacks](https://www.deltahacks.com/) | Hamilton | Jan. 25 - 26 | Hackathon is over |  | :white_check_mark: |
- | [ConU Hacks](https://conuhacks.io)  | Montreal | Jan. 25 - 26 | Hackathon is over - Bus to Toronto |  | :white_check_mark: |
-
  
 
 # February
@@ -38,11 +28,13 @@ To contribute:
 
 # March
 
- | Name  |  Location | Date | Application Period |  Notes |
- |---|---|---|---|---|
- | [HackLassonde](http://hacklassonde.ca/)  | Toronto | TBD | TBD |   |
- | [ETHUoft](https://www.ethuoft.ca)  | Toronto | TBD | TBD |  |
- | [New Hacks](https://ieee.utoronto.ca/#/)  | Toronto | March 7-8 | TBD |  |
+ | Name  |  Location | Date | Application Period |  Notes | MLH Partnered |
+ |---|---|---|---|---|---|
+ | [HackLassonde](http://hacklassonde.ca/)  | Toronto | TBD | TBD |   |  |
+ | [ETHUoft](https://www.ethuoft.ca)  | Toronto | TBD | TBD |  |  |
+ | [New Hacks](https://ieee.utoronto.ca/#/)  | Toronto | March 7-8 | TBD |  |  |
+ | [MacHacks]( https://www.machacks.ca/)  | Hamilton | March 21-22 | Applications open |   |  |
+ | [WinHacks]( https://winhacks.ca/)  | Windsor | March 27-29 | Applications open |   |   |
  | [Sheridan Hackville]( https://www.hackville.io/)  | Oakville | March 13-14 | Applications are open |   | :white_check_mark: |
 
 # April
